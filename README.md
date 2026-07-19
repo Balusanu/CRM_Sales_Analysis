@@ -333,9 +333,9 @@ This dashboard helps business leaders:
 
 **Connect with me**
 
-- LinkedIn: https://www.linkedin.com/in/your-profile
-- Portfolio: https://your-portfolio.com
-- GitHub: https://github.com/yourusername
+- LinkedIn: https://www.linkedin.com/in/bck98/
+- Portfolio: https://balusanu.github.io/My-Portfolio/
+- GitHub: https://github.com/Balusanu
 
 ---
 
